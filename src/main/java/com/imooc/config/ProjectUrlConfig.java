@@ -19,7 +19,7 @@ public class ProjectUrlConfig {
     public String wechatMpAuthorize;
 
     /**
-     * 微信开放平台授权url
+     * 微信开放平台授权urld
      */
     public String wechatOpenAuthorize;
 
